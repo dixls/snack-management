@@ -1,6 +1,6 @@
 ---
 header_brand: "Snack Management"
-header_tagline_paragraph: "For those who need snacks managed with the highest degree of competency and deliciousness"
+header_tagline_paragraph: "For those who need their snacks managed with the highest degree of competency and deliciousness"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
