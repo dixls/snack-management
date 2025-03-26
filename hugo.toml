@@ -6,3 +6,16 @@ theme = 'hugo-universal-theme'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[params]
+    disabled_logo = false
+    logo_text = "Snack Management"
+    email = "admin@snack.management"
+  [params.menu]
+    name = "Home"
+    url = "/"
+  [params.menu]
+    name = "Contact"
+    url = "/contact"
+  [params.menu]
+    name = "Whatever"
+    url = "/whatever"
